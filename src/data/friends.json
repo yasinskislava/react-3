@@ -1,0 +1,28 @@
+
+     [
+        {
+            "avatar": "https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png",
+            "name": "User",
+            "isOnline": true
+        },
+        {
+            "avatar": "https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png",
+            "name": "User",
+            "isOnline": false
+        },
+        {
+            "avatar": "https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png",
+            "name": "User",
+            "isOnline": true
+        },
+        {
+            "avatar": "https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png",
+            "name": "User",
+            "isOnline": false
+        },
+        {
+            "avatar": "https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png",
+            "name": "User",
+            "isOnline": false
+        }
+    ]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "type": "Invoice",
+    "amount": 356,
+    "currency": "USD"
+  },
+  {
+    "id": 2,
+    "type": "Withdrawal",
+    "amount": 46736,
+    "currency": "USD"
+  },
+  {
+    "id": 3,
+    "type": "Deposit",
+    "amount": 23,
+    "currency": "MUR"
+  },
+  {
+    "id": 4,
+    "type": "Payment",
+    "amount": 3506786,
+    "currency": "AUD"
+  },
+  {
+    "id": 5,
+    "type": "Withdrawal",
+    "amount": 9324,
+    "currency": "BWP"
+  }
+]

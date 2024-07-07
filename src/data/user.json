@@ -1,0 +1,11 @@
+{
+    "username": "UserNumberOne",
+    "tag": "user",
+    "location": "Brasilia, Brazil",
+    "avatar": "https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png",
+    "stats": {
+        "followers": 1245,
+        "views": 63446432,
+        "likes": 856
+    }
+}
